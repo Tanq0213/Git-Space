@@ -7,5 +7,3 @@ hello git 222222222
 hello git 222222222
 hello git 222222222
 hello git 222222222
-hello git 222222222
-h6666
